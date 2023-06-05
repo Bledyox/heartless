@@ -1,0 +1,347 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &592570941577661328
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2648855720137992344}
+  m_Layer: 0
+  m_Name: WoodenShelter_Branch
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2648855720137992344
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 592570941577661328}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4373195368192054701}
+  - {fileID: 1055734956879897610}
+  - {fileID: 871199407156753015}
+  - {fileID: 8285186040798189036}
+  - {fileID: 5913396539341867523}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &910549311199273115
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2648855720137992344}
+    m_Modifications:
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237825985260054843, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_Name
+      value: WoodenBeamCeiling_C
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+--- !u!4 &871199407156753015 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+  m_PrefabInstance: {fileID: 910549311199273115}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1014239695062726374
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2648855720137992344}
+    m_Modifications:
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237825985260054843, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_Name
+      value: WoodenBeamCeiling_CN
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+--- !u!4 &1055734956879897610 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+  m_PrefabInstance: {fileID: 1014239695062726374}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4324936671199037249
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2648855720137992344}
+    m_Modifications:
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237825985260054843, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_Name
+      value: WoodenBeamCeiling_N
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+--- !u!4 &4373195368192054701 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+  m_PrefabInstance: {fileID: 4324936671199037249}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5955287212758571247
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2648855720137992344}
+    m_Modifications:
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237825985260054843, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_Name
+      value: WoodenBeamCeiling_E
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+--- !u!4 &5913396539341867523 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+  m_PrefabInstance: {fileID: 5955287212758571247}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8236820068258055936
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2648855720137992344}
+    m_Modifications:
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237825985260054843, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+      propertyPath: m_Name
+      value: WoodenBeamCeiling_CE
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+--- !u!4 &8285186040798189036 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 51216319132570348, guid: 2e5e25a34de414041811620ff285bd62, type: 3}
+  m_PrefabInstance: {fileID: 8236820068258055936}
+  m_PrefabAsset: {fileID: 0}

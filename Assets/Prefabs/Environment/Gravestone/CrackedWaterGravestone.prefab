@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &9126936959366237027
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -2679335439015477782, guid: 843e5809961a82c49a5d6150700ebae6, type: 3}
+      propertyPath: dialogues.Array.data[0].sentences.Array.data[0]
+      value: Kriegerin des Wassers Uisge
+      objectReference: {fileID: 0}
+    - target: {fileID: 1587946905319531447, guid: 843e5809961a82c49a5d6150700ebae6, type: 3}
+      propertyPath: m_Name
+      value: CrackedWaterGravestone
+      objectReference: {fileID: 0}
+    - target: {fileID: 5892129999193076155, guid: 843e5809961a82c49a5d6150700ebae6, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5892129999193076155, guid: 843e5809961a82c49a5d6150700ebae6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5892129999193076155, guid: 843e5809961a82c49a5d6150700ebae6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5892129999193076155, guid: 843e5809961a82c49a5d6150700ebae6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5892129999193076155, guid: 843e5809961a82c49a5d6150700ebae6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5892129999193076155, guid: 843e5809961a82c49a5d6150700ebae6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5892129999193076155, guid: 843e5809961a82c49a5d6150700ebae6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5892129999193076155, guid: 843e5809961a82c49a5d6150700ebae6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5892129999193076155, guid: 843e5809961a82c49a5d6150700ebae6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5892129999193076155, guid: 843e5809961a82c49a5d6150700ebae6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5892129999193076155, guid: 843e5809961a82c49a5d6150700ebae6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7836076322186489725, guid: 843e5809961a82c49a5d6150700ebae6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 42d662dc568476f439ace533a388349d, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 843e5809961a82c49a5d6150700ebae6, type: 3}

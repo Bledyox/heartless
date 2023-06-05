@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1472065448207287406
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 857880335096411508, guid: cc0dec776244a1548a42af087cee4029, type: 3}
+      propertyPath: dialogues.Array.data[0].sentences.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 857880335096411508, guid: cc0dec776244a1548a42af087cee4029, type: 3}
+      propertyPath: dialogues.Array.data[0].sentences.Array.data[0]
+      value: 'Krieger der Schatten Dorchades
+
+
+        Darunter befindet sich ein
+        weiterer verschmierter Text.'
+      objectReference: {fileID: 0}
+    - target: {fileID: 857880335096411508, guid: cc0dec776244a1548a42af087cee4029, type: 3}
+      propertyPath: dialogues.Array.data[0].sentences.Array.data[1]
+      value: "Es ist nicht tot, was in Ewigkeit begraben liegt,\r und im Verlaufe
+        weiterer Ewigkeiten mag selbst der Tod zugrunde gehen."
+      objectReference: {fileID: 0}
+    - target: {fileID: 1277969053959617974, guid: cc0dec776244a1548a42af087cee4029, type: 3}
+      propertyPath: m_Name
+      value: ShadowGravestone
+      objectReference: {fileID: 0}
+    - target: {fileID: 1277969053959617975, guid: cc0dec776244a1548a42af087cee4029, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1277969053959617975, guid: cc0dec776244a1548a42af087cee4029, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1277969053959617975, guid: cc0dec776244a1548a42af087cee4029, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1277969053959617975, guid: cc0dec776244a1548a42af087cee4029, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1277969053959617975, guid: cc0dec776244a1548a42af087cee4029, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1277969053959617975, guid: cc0dec776244a1548a42af087cee4029, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1277969053959617975, guid: cc0dec776244a1548a42af087cee4029, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1277969053959617975, guid: cc0dec776244a1548a42af087cee4029, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1277969053959617975, guid: cc0dec776244a1548a42af087cee4029, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1277969053959617975, guid: cc0dec776244a1548a42af087cee4029, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1277969053959617975, guid: cc0dec776244a1548a42af087cee4029, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6227732229727590762, guid: cc0dec776244a1548a42af087cee4029, type: 3}
+      propertyPath: m_Radius
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7317635722797299722, guid: cc0dec776244a1548a42af087cee4029, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 10f05c940fc613b458f071d328c683be, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cc0dec776244a1548a42af087cee4029, type: 3}
