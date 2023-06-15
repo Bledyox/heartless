@@ -3,7 +3,7 @@
 Ein re-upload von meinem kleinem Spiel für das Modul "Game Design" meines Masterstudiums in Medieninformatik.
 
 ## Informationen
-- Upload: Februar 2022
+- Upload: August 2020
 - Re-upload: Juni 2023
 - Languages: C#
 - Frameworks: Unity3D
